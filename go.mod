@@ -1,3 +1,3 @@
-module github.com/____/____
+module github.com/clevergo/____
 
 go 1.13
