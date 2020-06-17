@@ -1,4 +1,4 @@
-module github.com/clevergo/____
+module clevergo.tech/____
 
 go 1.13
 
