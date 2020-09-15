@@ -6,7 +6,7 @@
 [![Release](https://img.shields.io/github/release/clevergo/____.svg?style=flat-square)](https://github.com/clevergo/____/releases)
 [![Downloads](https://img.shields.io/endpoint?url=https://pkg.clevergo.tech/api/badges/downloads/total/clevergo.tech/____&style=flat-square)](https://pkg.clevergo.tech/clevergo.tech/____)
 [![Chat](https://img.shields.io/badge/chat-telegram-blue?style=flat-square)](https://t.me/clevergotech)
-[![Community](https://img.shields.io/badge/community-forum-blue?style=flat-square)](https://forum.clevergo.tech)
+[![Community](https://img.shields.io/badge/community-forum-blue?style=flat-square&color=orange)](https://forum.clevergo.tech)
 
 ```shell
 $ go get -u clevergo.tech/____
